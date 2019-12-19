@@ -1,8 +1,4 @@
----
-layout: page
-title: Página Principal - Site Pessoal
-description: Gabriel P. da Cruz
----
+
 
 # Gabriel Cruz
 
