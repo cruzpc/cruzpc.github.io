@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overview of GitHub Pages
-description: Overview of construction of a website with GitHub Pages
+title: Página Principal - Site Pessoal
+description: Gabriel P. da Cruz
 ---
 
 The present site is simple, with a style derived from
