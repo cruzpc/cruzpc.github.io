@@ -6,12 +6,25 @@ description: Gabriel P. da Cruz
 
 # Gabriel Cruz
 
-Acadêmico de Engenharia da Computação e Técnico em Automação Industrial
+## Bem-vindo! 
 
+Meu nome é Gabriel Cruz, eu sou:
+  
+  - Estudante de Engenharia da Computação
+  - Técnico em Automação Industrial
+  
+## Projetos Recentes
 
+  - link 1
+  - link 2
+  - link 3
+  
+## Misc
 
-Esta é uma página de teste para construção do site pessoal.
+  - link
+  - link
+  - link
+  
+## Informações de Contato
 
-[x] testar pra ver se markdown funciona para escrever um site...
-[] testar fazer um fork
-
+Adicionar algumas informações de contato aqui, entre outras coisas
