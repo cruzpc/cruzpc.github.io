@@ -14,9 +14,7 @@ Meu nome é Gabriel Cruz, eu sou:
   
 ## Misc
 
-  - link
-  - link
-  - link
+  - [Aprenda a utilizar o LaTex no Linux para gerar documentos de acordo com a MDT - UFSM](/latex.md)
   
 ## Contato
 
