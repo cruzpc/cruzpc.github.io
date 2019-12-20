@@ -20,6 +20,6 @@ Meu nome é Gabriel Cruz, eu sou:
   
 ## Contato
 
-  - (Email)[gabriel97pc@outlook.com]
-  - (Twitter)[https://twitter.com/Gabriel_Cruz97]
-  - (GitHub)[https://github.com/cruzpc] 
+  - [Email](gabriel97pc@outlook.com)
+  - [Twitter](https://twitter.com/Gabriel_Cruz97)
+  - [GitHub](https://github.com/cruzpc) 
