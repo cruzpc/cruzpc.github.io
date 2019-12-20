@@ -1,3 +1,5 @@
+name: Gabriel Cruz Website
+title: null
 plugins:
   - jekyll-relative-links
 relative_links:
