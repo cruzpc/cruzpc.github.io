@@ -13,9 +13,8 @@ Meu nome é Gabriel Cruz, eu sou:
   
 ## Projetos Recentes
 
-  - [Leitura de Sensor DHT11 com ESP8266] (https://github.com/cruzpc/Medidor-de-Temperatura-e-Umidade-com-ESP8266)
-  - [Jogo em Python com Turtle] (https://github.com/cruzpc/Jogo-em-Python-usando-Turtle)
-  - [link](link.com)
+  - [Leitura de Sensor DHT11 com ESP8266](https://github.com/cruzpc/Medidor-de-Temperatura-e-Umidade-com-ESP8266)
+  - [Jogo em Python com Turtle](https://github.com/cruzpc/Jogo-em-Python-usando-Turtle)
   
 ## Misc
 
