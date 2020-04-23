@@ -7,6 +7,8 @@ Meu nome é Gabriel Cruz, eu sou:
   - Estudante de Engenharia da Computação
   - Técnico em Automação Industrial
   
+  [Veja meu currículo completo aqui.](curriculo.md)	
+	
 ## Projetos Recentes
 
   - [Leitura de Sensor DHT11 com ESP8266](https://github.com/cruzpc/Medidor-de-Temperatura-e-Umidade-com-ESP8266)
@@ -18,6 +20,6 @@ Meu nome é Gabriel Cruz, eu sou:
   
 ## Contato
 
-  - [Email](mailto:gabriel97pc@outlook.com)
-  - [Twitter](https://twitter.com/Gabriel_Cruz97)
+  - [Email](mailto:cruzpc@protonmail.com)
+  - [Twitter](https://twitter.com/cruzpc_)
   - [GitHub](https://github.com/cruzpc) 
